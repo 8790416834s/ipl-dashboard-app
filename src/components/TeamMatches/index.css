@@ -1,0 +1,15 @@
+.team-matches-container {
+  background-image: linear-gradient(#f26d22, #a4261d, #0f172a);
+  height: 180vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sub-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 28px;
+  align-self: flex-start;
+  margin-left: 130px;
+}
